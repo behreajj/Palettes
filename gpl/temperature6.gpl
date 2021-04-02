@@ -1,0 +1,10 @@
+GIMP Palette
+Name: Temperature
+Columns: 3
+# https://github.com/behreajj/Palette
+255 0 0 FF0000 1
+255 110 12 FF6E0C 2
+255 179 108 FFB36C 3
+255 218 183 FFDAB7 4
+255 255 255 FFFFFF 5
+188 208 255 BCD0FF 6
