@@ -1,0 +1,10 @@
+GIMP Palette
+Channels: RGBA
+Name: Game Boy Remix
+Columns: 5
+# https://github.com/behreajj/Palettes
+  0   0   0   0	Mask
+ 15  56  15 255	0F380F
+ 51  99  24 255	336318
+ 98 143  25 255	628F19
+155 188  15 255	9BBC0F
