@@ -22,12 +22,18 @@ Nyx 8 Remix ([original](https://lospec.com/palette-list/nyx8) by Javier Guerrero
 
 ![Plot](nyx8Plot.png)
 
-RGB 6 Bit
+RGB 6 Bit (2 2 2 bit)
 
 ![RGB 6 Bit](rgb6bit.png)
 
 ![Plot](rgb6bitPlot.png)
 
-RGB 9 Bit
+RGB 3 3 2 Bit
+
+![RGB 3 3 2 Bit](rgb332bit.png)
+
+![Plot](rgb332bitPlot.png)
+
+RGB 9 Bit (3 3 3 bit)
 
 ![RGB 6 Bit](rgb9bit.png)
