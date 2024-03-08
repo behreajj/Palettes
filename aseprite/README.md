@@ -28,6 +28,18 @@ RGB 6 Bit (2 2 2 bit)
 
 ![Plot](rgb6bitPlot.png)
 
+RGB 2 3 3 Bit
+
+![RGB 2 3 3 Bit](rgb233bit.png)
+
+![Plot](rgb233bitPlot.png)
+
+RGB 3 2 3 Bit
+
+![RGB 3 2 3 Bit](rgb323bit.png)
+
+![Plot](rgb323bitPlot.png)
+
 RGB 3 3 2 Bit
 
 ![RGB 3 3 2 Bit](rgb332bit.png)
