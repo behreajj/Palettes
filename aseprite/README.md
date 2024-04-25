@@ -10,6 +10,18 @@ Game Boy Remix
 
 ![Plot](gameBoyPlot.png)
 
+HSL Sample
+
+![HSV Sample](hslSample.png)
+
+![Plot](hslSamplePlot.png)
+
+HSV Sample
+
+![HSV Sample](hsvSample.png)
+
+![Plot](hsvSamplePlot.png)
+
 Normal Map
 
 ![Normal Map](normalMap.png)
